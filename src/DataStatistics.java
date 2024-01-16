@@ -1,4 +1,4 @@
-public class Main {
+public class DataStatistics {
     public static void main(String[] args) {
         int [] dataPoints = new int[100];
         int max = 0;
